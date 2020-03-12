@@ -1,2 +1,2 @@
 # todo
-練習用ToDoアプリケーション
+Laravelを用いたToDoアプリケーション
