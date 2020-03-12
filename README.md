@@ -1,2 +1,2 @@
 # todo
-Laravelを用いたToDoアプリケーション
+Laravelを用いたToDoリスト
